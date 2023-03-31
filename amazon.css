@@ -1,0 +1,154 @@
+h1{
+    padding-left: 3px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin:0px;
+    position: relative;
+    left: 5%;
+}
+
+p{
+    position: relative;
+    left: 5%;
+}
+
+
+#forgot_password{
+    position: absolute;
+    left: 61.5%;
+    color:rgb(0 191 255);
+}
+
+#continue{
+    background-color: rgb(253, 203, 0);
+    width: 310px;
+    left: 5%;
+    position: relative;
+
+   
+    border-radius: 5px;
+    border:2px solid grey;
+    height: 25px;
+
+    
+}
+
+
+form{
+
+    padding-bottom: 3px;
+    padding-top: 10px;
+    
+}
+
+
+.labels{
+    left: 5%;
+    position: relative;
+    color: lightslategrey;
+
+}
+
+.text_field{
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 300px;
+    left: 5%;
+    position: relative; 
+
+   
+    border-radius: 5px;
+    border:2px solid grey;
+    height: 25px; 
+
+    color: lightslategrey
+
+
+
+}
+
+#help{
+    position: absolute;
+    left: 5%;
+    margin-top: 20px;
+    color: rgb(0 191 255);
+}
+
+
+
+
+#containor{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  border: 3px solid gray;
+
+  height: 300px;
+  width: 350px;
+
+}
+
+#second_containor{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+    /* border: 3px solid gray; */
+  
+    height: 500px;
+    width: 350px;
+}
+
+#right-line{
+    position: absolute;
+    top: 85%;
+    left: 63%;
+    width: 104px;
+    margin:0px;
+    border-width: 1px;
+    border-style: solid;
+    color: lightgrey;
+}
+
+#left-line{
+    position: absolute;
+    top: 85%;
+    left: 5%;
+    width: 100px;
+    margin:0px;
+    border-width: 1px;
+    border-style: solid;
+    color: lightgrey;
+
+}
+
+#new{
+    position:absolute;
+    top: 83.5%;
+    left:36%;
+    margin:0px;
+    font-size: small;
+    color: lightgrey;   
+}
+
+#create-amazon{
+    background-color: lightgrey;
+    width: 310px;
+    left: 5%;
+    bottom: 5%;
+    position: absolute;
+
+
+   
+    border-radius: 5px;
+    border:2px solid grey;
+    height: 25px;
+
+
+}
